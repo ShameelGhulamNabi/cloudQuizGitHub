@@ -1,0 +1,18 @@
+# 1.Cloud Service Models (IaaS, PaaS, SaaS)
+
+IaaS: Provides virtual servers, storage, and networks. Users manage OS and apps.
+Example: AWS EC2, Azure VM.
+
+PaaS: Platform for building and deploying apps without managing hardware.
+Example: Google App Engine, Heroku.
+
+SaaS: Ready-to-use software over the internet.
+Example: Gmail, Microsoft 365.
+
+# 2.Cloud Deployment Models (Public, Private, Hybrid)
+
+Public Cloud: Shared by many users, managed by providers. Example: AWS, Azure.
+
+Private Cloud: Used by one organization; more secure and costly. Example: VMware Cloud.
+
+Hybrid Cloud: Mix of public and private; offers flexibility. Example: AWS + Private Cloud.
